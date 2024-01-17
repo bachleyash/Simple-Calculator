@@ -1,16 +1,16 @@
-SIMPLE CALCULATOR
-Features that are present in this calculator are addition, subtraction, multiplication, division etc
+SIMPLE CALCULATOR <br>
+Features that are present in this calculator are addition, subtraction, multiplication, division etc <br>
 
 
-Steps to execute this calculator:
-Download the entire code
-Open up the index.html.
-Open with live server.
+Steps to execute this calculator:<br>
+Download the entire code <br>
+Open up the index.html. <br>
+Open with live server. <br>
 
-Technologies used:
-HTML
-CSS [style/Presentation]
-Javascript [Logic/Working of calculator]
+Technologies used: <br>
+HTML <br>
+CSS [style/Presentation] <br>
+Javascript [Logic/Working of calculator] <br>
 
 
 
